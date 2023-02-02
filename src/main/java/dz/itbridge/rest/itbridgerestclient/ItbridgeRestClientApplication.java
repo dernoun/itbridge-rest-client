@@ -8,6 +8,7 @@ public class ItbridgeRestClientApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ItbridgeRestClientApplication.class, args);
+
 	}
 
 }
